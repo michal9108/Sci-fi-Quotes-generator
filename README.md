@@ -4,4 +4,4 @@
 <p align="center">  
 <img src="https://media.giphy.com/media/IOqP3pWEQDLMDB34zM/giphy.gif" width="75%" height="75%"/> 
 </p>
-
+<p  align="center"> Simple Quote generator using HTML, CSS and JS<p>
