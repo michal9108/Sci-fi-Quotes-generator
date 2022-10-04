@@ -1,7 +1,7 @@
-# Random Quote Generator
-Easy random sci-fy quotes generator
+<h1 align="center">Easy random sci-fy quotes generator</h1>
 
-ACTUAL SITE:
 
-<a href="https://michal9108.github.io/Sci-fy-Quotes-generator/">Sci-fy Quotes generator</a>
+<p align="center">  
+<img src="https://media.giphy.com/media/IOqP3pWEQDLMDB34zM/giphy.gif" width="75%" height="75%"/> 
+</p>
 
